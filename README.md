@@ -1,3 +1,2 @@
-# sensible-c-made-by-TopchetoEU
+# sensible-c
 C libary for some basic functions
-#Creator: Kaloyan Venkov
